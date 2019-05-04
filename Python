@@ -1,0 +1,15 @@
+### set up anaconda
+
+[https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart](link to set up anaconda)
+
+Jetbain python has built in intergration with anaconda.  So create a project as a conda project.  This will create a virtual environment with the name of the project as the environment..
+
+```bash
+## install's tensorflow-gpu
+conda install tensorflow-gpu 
+## install pip in the conda envirment
+conda install pip
+## know you can use pip as a local install of packages
+
+
+```
